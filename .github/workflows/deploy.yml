@@ -1,0 +1,35 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - master  # Ensure this matches your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Clean public directory
+        run: rm -rf public
+       
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.134.2'
+
+      - name: Build
+        run: hugo
+
+      - name: List generated files in public
+        run: ls -R ./public
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages  # Ensure this matches your deployment branch

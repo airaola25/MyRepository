@@ -1,0 +1,70 @@
+baseurl = "https://airaola25.github.io/"  # Change to your actual domain
+title = "Alex Iraola Hernando"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+pagination.pagerSize = 20  # Number of posts per page
+
+[services]
+[services.disqus]
+disqusShortname = "yourdisqusname"  # If you have Disqus, otherwise remove this line
+
+[markup.highlight]
+style = "github-dark"  # Syntax highlighting style for code blocks
+
+[params]
+  author = "Alex Iraola"  # Your name
+  info = "Electronics Engineer | AI Enthusiast | Web Developer"  # A short tagline for yourself
+  description = "Alex Iraola's personal website and portfolio"
+  keywords = "AI, electronics engineering, web development, portfolio"  # SEO keywords
+  avatarurl = "images/avatar.jpg"  # Update to your avatar image path
+  # gravatar = "alex.iraola@example.com"  # Optionally, add a Gravatar email for your profile picture
+
+  faviconSVG = "/img/favicon.svg"  # Change favicon path to match your assets
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2024  # The year your website started
+
+  enableTwemoji = true  # Enables emoji support
+
+  colorScheme = "auto"  # Automatically switches between light and dark mode
+  hidecolorschemetoggle = false  # Show color scheme toggle button
+
+  # Uncomment if you want to add custom styles or scripts later
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social Links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/airaola25"  # Replace with your actual GitHub URL
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/airaola25/"  # Replace with your LinkedIn profile
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "/projects/"  # Make sure to create a content section for your projects
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "/posts/"  # If you have a blog section
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "/about/"  # Link to your 'About Me' page
