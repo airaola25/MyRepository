@@ -1,5 +1,5 @@
 baseurl = "https://airaola25.github.io/"  # Change to your actual domain
-title = "Alex Iraola Hernando Garcia"
+title = "Alex Iraola"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
