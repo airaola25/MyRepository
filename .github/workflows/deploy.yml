@@ -24,6 +24,9 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Create CNAME file for custom domain
+        run: echo 'alexiraola.dev' > ./public/CNAME  # Add your custom domain
+
       - name: List generated files in public
         run: ls -R ./public
 

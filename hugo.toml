@@ -1,4 +1,4 @@
-baseurl = "https://airaola25.github.io/MyRepository/"  # Change to your actual domain
+baseurl = "https://alexiraola.dev/"  # Change to your actual domain
 title = "Alex Iraola"
 theme = "hugo-coder"
 languagecode = "en"
