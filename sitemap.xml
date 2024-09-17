@@ -3,13 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alexiraola.dev/</loc>
+    <lastmod>2024-09-17T12:51:48+02:00</lastmod>
+  </url><url>
+    <loc>https://alexiraola.dev/tags/ai/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexiraola.dev/projects/my-first-project/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexiraola.dev/tags/portfolio/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexiraola.dev/tags/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexiraola.dev/tags/web-development/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexiraola.dev/authors/</loc>
   </url><url>
     <loc>https://alexiraola.dev/categories/</loc>
   </url><url>
     <loc>https://alexiraola.dev/series/</loc>
-  </url><url>
-    <loc>https://alexiraola.dev/tags/</loc>
   </url>
 </urlset>
