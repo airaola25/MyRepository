@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alex Iraola</title>
-    <link>https://alexiraola.dev/posts/</link>
-    <description>Recent content in Posts on Alex Iraola</description>
+    <title>ChatGPT on Alex Iraola</title>
+    <link>https://alexiraola.dev/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Alex Iraola</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://alexiraola.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexiraola.dev/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building My Portfolio with Hugo and GitHub Pages</title>
       <link>https://alexiraola.dev/posts/my-first-post/</link>

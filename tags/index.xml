@@ -6,27 +6,55 @@
     <description>Recent content in Tags on Alex Iraola</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://alexiraola.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>https://alexiraola.dev/tags/ai/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://alexiraola.dev/tags/ai/</guid>
+      <title>ChatGPT</title>
+      <link>https://alexiraola.dev/tags/chatgpt/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>https://alexiraola.dev/tags/generative-ai/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://alexiraola.dev/tags/github-pages/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://alexiraola.dev/tags/hugo/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
       <link>https://alexiraola.dev/tags/portfolio/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://alexiraola.dev/tags/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
       <link>https://alexiraola.dev/tags/web-development/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://alexiraola.dev/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://alexiraola.dev/tags/ai/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/tags/ai/</guid>
       <description></description>
     </item>
   </channel>
