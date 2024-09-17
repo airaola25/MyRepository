@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Alex Iraola</title>
-    <link>https://airaola25.github.io/MyRepository/series/</link>
+    <link>https://alexiraola.dev/series/</link>
     <description>Recent content in Series on Alex Iraola</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://airaola25.github.io/MyRepository/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexiraola.dev/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
