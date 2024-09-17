@@ -10,10 +10,24 @@
     <atom:link href="https://alexiraola.dev/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Project</title>
+      <link>https://alexiraola.dev/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Project</title>
       <link>https://alexiraola.dev/projects/my-first-project/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://alexiraola.dev/projects/my-first-project/</guid>
       <description>&lt;h2 id=&#34;project-overview&#34;&gt;&#xA;  Project Overview&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-overview&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My first project is a web app that helps users do X, Y, and Z.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Project</title>
+      <link>https://alexiraola.dev/projects/my-second-project/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alexiraola.dev/projects/my-second-project/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;&#xA;  Project Overview&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-overview&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My second project is a web app that helps users do X, Y, and Z.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
