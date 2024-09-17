@@ -1,5 +1,13 @@
-+++
-title = 'Projects'
-date = 2024-09-17T12:51:03+02:00
-draft = true
-+++
+---
+title: "My Projects"
+description: "A showcase of my personal and professional projects."
+draft: false  # Ensure it's not a draft
+---
+
+## Welcome to My Projects
+
+Here are some of the cool things I've worked on:
+
+- AI and Machine Learning
+- Web Development
+- Electronics Projects
