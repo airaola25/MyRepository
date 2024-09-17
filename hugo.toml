@@ -39,7 +39,7 @@ style = "github-dark"  # Syntax highlighting style for code blocks
 
 [taxonomies]
   category = "categories"
-  series = "series"
+  series = "series" 
   tag = "tags"
   author = "authors"
 
