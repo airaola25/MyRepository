@@ -18,7 +18,7 @@ Hugo is a fast and flexible static site generator. By deploying with GitHub Page
 
 ## Visual Preview of My Portfolio
 
-<img src="/images/posts/portfolio-demo.JPG" alt="A screenshot of my Hugo portfolio, deployed on GitHub Pages" title="A screenshot of my Hugo portfolio, deployed on GitHub Pages" loading="lazy">
+{{< lazyimage src="/images/posts/portfolio-demo.JPG" alt="A screenshot of my Hugo portfolio" title="A screenshot of my Hugo portfolio" >}}
 
 ## What You’ll Find On My Portfolio
 
