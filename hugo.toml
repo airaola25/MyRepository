@@ -18,7 +18,7 @@ style = "github-dark"  # Syntax highlighting style for code blocks
   info = "Electronics Engineer | AI Enthusiast | Web Developer | ML Solutions"  # A short tagline for yourself
   description = "Alex Iraola's personal website and portfolio. Alex is an Electronics Engineer and Developer focused on building solutions using all the power of Artificial Intelligence "
   keywords = "Artificial Intelligence, AI, Machine Learning, ML, Electronics engineering, web development, portfolio, Hugo, ChatGPT, OpenAI"  # SEO keywords
-  avatarurl = "images/avatar.jpg"  # Update to your avatar image path
+  avatarurl = "/images/avatar.jpg"  # Update to your avatar image path
   # gravatar = "alexiraola25@gmail.com"  # Optionally, add a Gravatar email for your profile picture
 
   faviconSVG = "/img/favicon.svg"  # Change favicon path to match your assets
