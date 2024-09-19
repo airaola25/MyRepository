@@ -37,6 +37,16 @@ style = "github-dark"  # Syntax highlighting style for code blocks
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
+[minify]
+  disableHTML = false
+  disableCSS = false
+  disableJS = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [taxonomies]
   category = "categories"
   series = "series" 
